@@ -92,7 +92,5 @@ public class LinkedListImplementation {
 		readingElements(obj);
 		withOutGenerics();
 		listAsQueue();
-
 	}
-
 }
